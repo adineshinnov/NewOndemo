@@ -4,7 +4,7 @@ function App() {
   const [count, setCount] = useState(0)
   return (
     <>
-      <h1>Its Nearly Hard!</h1>
+      <h1>Its A Good Day, Guys!</h1>
     </>
   )
 }
